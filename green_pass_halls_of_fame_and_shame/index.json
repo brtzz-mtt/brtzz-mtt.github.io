@@ -1,0 +1,162 @@
+{
+    "good": {
+        "Acciaierie d'Italia": {
+            "name": "Acciaierie d'Italia (ex Ilva)",
+            "link": "https://www.acciaierieditalia.com/it/home/",
+            "entries": {
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/",
+                "un articolo del Sole 24 ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Bonfiglioli": {
+            "name": "Bonfiglioli Riduttori",
+            "link": "https://www.bonfiglioli.com/italy/it",
+            "entries": {
+                "un articolo sul Corriere della Sera sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/",
+                "un articolo del Sole 24 ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Ducati": {
+            "name": "Ducati Motor",
+            "link": "https://www.ducati.com/it/it/home",
+            "entries": {
+                "un articolo sul Corriere della Sera sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/",
+                "un articolo del Sole 24 ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Gruppo Macro": {
+            "name": "Gruppo Macro",
+            "link": "https://www.gruppomacro.com/",
+            "entries": {
+                "un articolo sul Corriere di Bologna sulla mancata partecipazione al SANA di Bologna e al Salone del Libro di Torino": "https://corrieredibologna.corriere.it/bologna/cultura-spettacoli/21_agosto_19/green-pass-casa-editrice-macro-contraria-non-parteciperemo-salone-libro-sana-7ab68118-0105-11ec-94f2-e0432c13a3ec.shtml",
+                "un altro articolo su Oasi Sana sullo stesso argomento": "https://oasisana.com/2021/08/23/editori-contro-il-green-pass-uno-e-macro-disertano-fiere-e-salone-del-libro-meglio-perdere-soldi-che-coerenza-ai-valori/"
+            }
+        },
+        "Idea Sociale": {
+            "name": "Idea Sociale | Cooperativa Sociale",
+            "link": "https://www.ideasociale.org/",
+            "entries": {
+                "un articolo su TrevisoToday sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.trevisotoday.it/attualita/tamponi-pagati-idea-sociale-cooperativa-treviso-21-settembre-2021.html"
+            }
+        },
+        "Ima": {
+            "name": "IMA Industria Macchine Automatiche Spa",
+            "link": "https://ima.it/it/",
+            "entries": {
+                "un articolo sul Corriere della Sera sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/",
+                "ancora un articolo del Resto del Carlino di BOLOGNA con le dichiarazioni di Alberto Vacchi": "https://www.ilrestodelcarlino.it/bologna/cronaca/alberto-vacchi-ima-paga-tamponi-dipendenti-1.6906952",
+                "un articolo del Sole 24 Ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "NaturaSì": {
+            "name": "NaturaSì Ecor Spa",
+            "link": "https://www.naturasi.it/",
+            "entries": {
+                "il comunicato dell'azienda sul sito ufficiale": "https://www.naturasi.it/notizie/solidarieta-collaboratori",
+                "un articolo sul Corriere della Sera con alcuni interessanti dettagli": "https://www.corriere.it/economia/lavoro/21_settembre_21/green-pass-naturasi-paghera-tamponi-lavoratori-no-vax-072209e4-1ac7-11ec-8604-8b77798ec285.shtml",
+                "un articolo sul Sole 24 Ore sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1",
+                "un redazionale di Yahoo! Notizie sullo stesso argomento": "https://it.notizie.yahoo.com/naturas%C3%AC-contribuiremo-costo-tamponi-per-095912255.html",
+                "un redazionale ANSA sul seguito di Sailmaker International Srl dopo l'esempio di NaturaSì": "https://www.ansa.it/sito/notizie/cronaca/2021/09/29/green-pass-azienda-paga-tamponi-dipendentino-a-divisioni_a4a05f9a-e5a7-49ec-b996-26ee48deb4e3.html"
+            }
+        },
+        "Nord Motoriduttori": {
+            "name": "Nord Motoriduttori Srl",
+            "link": "https://www.nord.com/it/home.jsp",
+            "entries": {
+                "un articolo sul Corriere della Sera sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml"
+            }
+        },
+        "Piquadro": {
+            "name": "Piquadro Holding Spa",
+            "link": "https://www.piquadro.com/it/",
+            "entries": {
+                "un articolo sul Sole 24 Ore sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Porto Petroli di Genova": {
+            "name": "Porto Petroli di Genova Spa",
+            "link": "http://www.portopetroli.com/index.php/it/",
+            "entries": {
+                "un articolo sul Sole 24 Ore sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Sailmaker": {
+            "name": "Sailmaker International Srl",
+            "link": "https://www.sailmakerint.com/",
+            "entries": {
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/",
+                "un articolo del Sole 24 Ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1",
+                "un redazionale ANSA sulle dichiarazioni di Gianlorenzo Florenzi": "https://www.ansa.it/sito/notizie/cronaca/2021/09/29/green-pass-azienda-paga-tamponi-dipendentino-a-divisioni_a4a05f9a-e5a7-49ec-b996-26ee48deb4e3.html"
+            }
+        },
+        "Segafredo": {
+            "name": "Segafredo Zanetti SpA",
+            "link": "https://www.segafredo.it/it/",
+            "group": {
+                "name": "Massimo Zanetti Beverage Group",
+                "link": "https://www.mzb-group.com/it"
+            },
+            "entries": {
+                "un articolo del Gazzettino sulla nota diffusa da Martino Zanetti": "https://www.ilgazzettino.it/nordest/trieste/martino_zanetti_hausbrandt_portuali_no_green_pass-6274553.html"
+            }
+        },
+        "Terminal PSA di Prà": {
+            "name": "Terminal PSA di Prà (Genova)",
+            "link": "https://www.psagp.it/",
+            "entries": {
+                "un articolo sul Sole 24 Ore sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        },
+        "Toyota": {
+            "name": "Toyota Material Handling Srl Italy",
+            "link": "https://toyota-forklifts.it/",
+            "entries": {
+                "un articolo sul Corriere della Sera sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "un articolo di QuiFinanza sul pagamento dei tamponi ai dipendenti da parte dell'azienda": "https://quifinanza.it/lavoro/video/quali-aziende-pagano-tamponi/543031/"
+            }
+        },
+        "Uno Editori": {
+            "name": "Uno Editori",
+            "link": "https://unoeditori.com/",
+            "group": {
+                "name": "Gruppo Editoriale Uno Srl",
+                "link": "https://gruppoeditorialeuno.com/"
+            },
+            "entries": {
+                "un redazionale ANSA sulla rinuncia al Salone del Libro di Torino": "https://www.ansa.it/piemonte/notizie/2021/08/23/green-pass-editore-rinuncia-al-salone-del-libro-di-torino_005cc3a3-d1fc-4bc8-8ff8-ab7fc199c01f.html",
+                "un articolo su VisioneTV sulla mancata partecipazione al Salone del Libro di Torino": "https://visionetv.it/uno-editori-rinuncia-al-salone-del-libro-prabhat-eusebio-dico-no-a-un-sistema-repressivo-e-coercitivo/",
+                "un altro articolo su Oasi Sana sullo stesso argomento": "https://oasisana.com/2021/08/23/editori-contro-il-green-pass-uno-e-macro-disertano-fiere-e-salone-del-libro-meglio-perdere-soldi-che-coerenza-ai-valori/"
+            }
+        }
+    },
+    "bads": {
+        "Conad": {
+            "name": "Conad",
+            "entries": {
+                "un articolo del Fatto Quotidiano sulle dichiarazioni di Francesco Pugliese a Quarta Repubblica (Rete4)": "https://www.ilfattoquotidiano.it/2021/09/07/green-pass-ad-conad-i-dipendenti-non-vaccinati-vadano-in-aspettativa-non-retribuita/6313456/"
+            }
+        },
+        "Confcommercio": {
+            "name": "Confcommercio",
+            "entries": {
+                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml"
+            }
+        },
+        "Confindustria": {
+            "name": "Confindustria",
+            "entries": {
+                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml"
+            }
+        },
+        "Kiko": {
+            "name": "Kiko Milano",
+            "entries": {
+                "un articolo sul Fatto Quotidiano sulle dichiarazioni di Cristina Scocchia a Otto e mezzo (La7)": "https://www.ilfattoquotidiano.it/2021/10/13/green-pass-lad-di-kiko-su-la7-pagare-i-tamponi-ai-dipendenti-non-vaccinati-no-lazienda-e-la-collettivita-non-devono-assumersi-questo-costo/6352827/",
+                "un articolo del Sole 24 Ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+            }
+        }
+    }
+}
