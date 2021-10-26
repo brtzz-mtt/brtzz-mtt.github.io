@@ -8,7 +8,7 @@ def flask_template_render(template: str = 'index.html',
     args: dict = {},
     debug: bool = DEBUG_MODE
 ) -> str:
-    copyfile(BASE_PATH + '../../grid.css', BASE_PATH + '../static/grid.css')
+    copyfile(BASE_PATH + '../../grid.css', BASE_PATH + '../static/css/grid.css')
     return render_template(template,
         title = title,
         args = args,
