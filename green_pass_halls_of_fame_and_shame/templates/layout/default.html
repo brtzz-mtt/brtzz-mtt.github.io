@@ -8,20 +8,24 @@
                     <div class="content">
                         <nav>
                             <!--<a href="{{ url_for('index') }}">-->
-                                <img src="{{ url_for('static', filename='images/logo_pf.png') }}" alt="Python of Fire" style="border-radius:50%" />
+                                <img src="{{ url_for('static', filename='images/logo_pf.png') }}" alt="Python of Fire" style="border-radius:50%;height:40px" />
                             <!--</a>-->
-                            <span style="float:right; margin-bottom:8px">Suggerimenti? Contattare</span>
-                            <a href="mailto:brtzz.mtt@protonmail.com" style="clear:both;float:right">brtzz.mtt@protonmail.com</a>
+                            <p style="float:right">
+                                Suggerimenti? Contattare
+                                <br />
+                                <a href="mailto:brtzz.mtt@protonmail.com">brtzz.mtt@protonmail.com</a>
+                            </p>
                         </nav>
                     </div>
                 </header>
+                <br />
                 <section id="content">
                     {% if title %}
                         <h1>{{ title }}</h1>
                     {% endif %}
                     {% block content %}{% endblock %}
                 </section>
-                <footer></footer>
+                <footer><div class="sharethis-sticky-share-buttons"></div></footer>
             </div>
         </div>
     </body>
