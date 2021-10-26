@@ -9,4 +9,4 @@ with open(BASE_PATH + '../README.md') as md_file:
 
 JSON_DATA = load(open(BASE_PATH + '../index.json'))
 
-DEBUG_MODE = True
+DEBUG_MODE = False

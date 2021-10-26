@@ -8,7 +8,7 @@
     <link rel=icon href="{{ url_for('static', filename='images/logo_favicon.png') }}" sizes="24x24" type="image/png" />
     <title>{{ title }}</title>
     <meta name="description" content="L'Italia è ormai una Repubblica (?), (s)fondata sull'INFAME TESSERA VERDE, ma la sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione!">
-    {% if not debug %}
+    {% if debug %}
         <style>
             div.grid {
                 box-shadow: 0 0 8px inset red;

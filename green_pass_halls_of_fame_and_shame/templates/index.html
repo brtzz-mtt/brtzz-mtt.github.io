@@ -43,6 +43,7 @@
                 <br />
                 {% for key, value in args['data']['bads'].items() %}
                     <h4>{{ value['name'] }}</h4>
+                    <p>{{ value['text'] }}</p>
                     <p>
                         {% for key, value in value['entries'].items() %}
                         <a href="{{ value }}" target="_blank">qui</a> {{ key }}<br />

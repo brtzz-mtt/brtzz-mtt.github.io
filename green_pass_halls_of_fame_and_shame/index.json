@@ -135,27 +135,40 @@
     "bads": {
         "Conad": {
             "name": "Conad",
+            "text": "L'amministratore delegato della catena pensa che per i dipendenti che 'non vogliono vaccinarsi' la via più giusta sia quella di andare in aspettativa non retribuita, in modo che possano sostituirli..",
             "entries": {
-                "un articolo del Fatto Quotidiano sulle dichiarazioni di Francesco Pugliese a Quarta Repubblica (Rete4)": "https://www.ilfattoquotidiano.it/2021/09/07/green-pass-ad-conad-i-dipendenti-non-vaccinati-vadano-in-aspettativa-non-retribuita/6313456/"
+                "un articolo del Fatto Quotidiano sulle dichiarazioni di Francesco Pugliese a Quarta Repubblica (Rete4)": "https://www.ilfattoquotidiano.it/2021/09/07/green-pass-ad-conad-i-dipendenti-non-vaccinati-vadano-in-aspettativa-non-retribuita/6313456/",
+                "un ulteriore articolo sull'argomento dal sito Today": "https://www.today.it/attualita/conad-green-pass-dipendenti.html",
+                "un ulteriore articolo sull'argomento dal sito Money.it": "https://www.money.it/Supermercati-Conad-boicottati-da-no-green-pass-motivazione",
+                "un redazionale di Bologna Today sulle dichiarazioni di Pugliese": "https://www.bolognatoday.it/cronaca/green-pass-ad-conad-dipendenti-aspettativa.html",
+                "il curioso caso di una filiale di Roma, e il suo cartello, in un articolo del Giornale d'Italia": "https://www.ilgiornaleditalia.it/news/cronaca/301480/green-pass-supermercato-conad-roma.html?refresh_ce"
             }
         },
         "Confcommercio": {
             "name": "Confcommercio",
+            "text": "Nessun aiuto da parte degli imprenditori a chi non vorrá farsi vaccinare, il tampone se lo dovranno pagare da soli! E ci si felicita per il prezzo 'calmierato' a 15 Euro (quando produrre un tampone ne costa molto meno di due)",
             "entries": {
-                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml"
+                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "la pagina sulle nuove regole al lavoro, con le dichiarazioni della vicepresidente Donatella Prampolini": "https://www.confcommercio.it/-/regole-greenpass-lavoro"
             }
         },
         "Confindustria": {
             "name": "Confindustria",
+            "text": "Contrari a sostenere i costi per eventuali tamponi ai dipendenti ed in aperta polemica con i sindacati che cercano di tutelare il diritto al lavoro..",
             "entries": {
-                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml"
+                "un articolo sul Corriere della Sera sul sostegno al green pass": "https://www.corriere.it/economia/lavoro/21_ottobre_09/da-ducati-all-ex-ilva-perche-aumentano-aziende-che-pagano-tamponi-dipendenti-a007d3d8-2827-11ec-8a6d-f17b9efd9487.shtml",
+                "un redazionale di adnkronos sulle dichiarazioni in merito del presidente Carlo Bonomi": "https://www.adnkronos.com/green-pass-lavoro-bonomi-tampone-a-carico-del-dipendente_3Ha0Yz5SAACMyhKcESm5qd",
+                "un articolo su la Discussione sullo stesso argomento": "https://ladiscussione.com/109584/attualita/green-pass-bonomi-confindustria-i-sindacati-sbagliano-cosi-tutelano-i-non-vaccinati/",
+                "un articolo su Bari Today sulla polemica con i sindacati": "https://www.baritoday.it/attualita/puglia-green-pass-lavoratori-cgil-confindustria.html"
             }
         },
         "Kiko": {
             "name": "Kiko Milano",
+            "text": "Il categorico rifiuto dell'azienda di assumersi alcun costo per eventuali tamponi ai dipendenti non vaccinati ('paghino la loro scelta', dice) valgono all'amministratrice delegata il plauso di Burioni (su twitter). Controlli puntuali, e chi non é 'in regola': a casa e sospeso!",
             "entries": {
                 "un articolo sul Fatto Quotidiano sulle dichiarazioni di Cristina Scocchia a Otto e mezzo (La7)": "https://www.ilfattoquotidiano.it/2021/10/13/green-pass-lad-di-kiko-su-la7-pagare-i-tamponi-ai-dipendenti-non-vaccinati-no-lazienda-e-la-collettivita-non-devono-assumersi-questo-costo/6352827/",
-                "un articolo del Sole 24 Ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1"
+                "un articolo del Sole 24 Ore sullo stesso argomento": "https://www.ilsole24ore.com/art/dall-ilva-ducati-e-piquadro-ecco-aziende-che-pagano-tamponi-dipendenti-AE15Bfp?refresh_ce=1",
+                "un articolo dell'Huffington Post sulle medesime dichiarazioni della Scocchia": "https://www.huffingtonpost.it/entry/lad-di-kiko-no-ai-tamponi-gratis-per-i-dipendenti-non-vaccinati-paghino-la-loro-scelta_it_61669933e4b065a5496db06b"
             }
         }
     }
