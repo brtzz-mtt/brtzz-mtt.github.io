@@ -1,1 +1,7 @@
-/home/lord-vollkorn/Workspace/brtzz-mtt_github_io/grid.css
+div.grid {
+    float: left;
+    height: auto;
+    position: relative;
+    width: 100%;
+}
+
