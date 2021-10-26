@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/static/css/rwd.css" />
     <link rel=icon href="/static/images/logo_favicon.png" sizes="24x24" type="image/png" />
     <title>Green Pass Hall of Fame and Shame (GPHoF&amp;S) v2021.10.26</title>
-    <meta name="description" content="L'Italia è ormai una Repubblica (?)), fondata sull'INFAME TESSERA VERDE, ma la sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione">
+    <meta name="description" content="L'Italia è ormai una Repubblica (?), (sfo)fondata sull'INFAME TESSERA VERDE, ma la sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione!">
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="/static/js/script.js"></script>
@@ -20,10 +20,11 @@
                 <header>
                     <div class="content">
                         <nav>
-                            <a href="/">
-                                <img src="/static/images/logo_favicon.png" alt="INDEX" style="border-radius:50%" />
-                            </a>
-                            <a href="mailto:brtzz.mtt@protonmail.com" style="float:right">brtzz.mtt@protonmail.com</a>
+                            <!--<a href="/">-->
+                                <img src="/static/images/logo_pf.png" alt="Python of Fire" style="border-radius:50%" />
+                            <!--</a>-->
+                            <span style="float:right; margin-bottom:8px">Suggerimenti? Contattare</span>
+                            <a href="mailto:brtzz.mtt@protonmail.com" style="clear:both;float:right">brtzz.mtt@protonmail.com</a>
                         </nav>
                     </div>
                 </header>
