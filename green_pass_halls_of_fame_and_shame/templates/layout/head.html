@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/rwd.css') }}" />
     <link rel=icon href="{{ url_for('static', filename='images/logo_favicon.png') }}" sizes="24x24" type="image/png" />
     <title>{{ title }}</title>
-    {% if debug %}
+    {% if not debug %}
         <style>
             div.grid {
                 box-shadow: 0 0 8px inset red;

@@ -2,9 +2,18 @@
 <html lang="en">
     {% include 'layout/head.html' %}
     <body>
-        <div class="grid height_full">
+        <div class="grid">
             <div id="main" class="grid">
-                <header></header>
+                <header>
+                    <div class="content">
+                        <nav>
+                            <a href="{{ url_for('index') }}">
+                                <img src="{{ url_for('static', filename='images/logo_favicon.png') }}" alt="INDEX" style="border-radius:50%" />
+                            </a>
+                            <a href="mailto:brtzz.mtt@protonmail.com" style="float:right">brtzz.mtt@protonmail.com</a>
+                        </nav>
+                    </div>
+                </header>
                 <section id="content">
                     {% if title %}
                         <h1>{{ title }}</h1>

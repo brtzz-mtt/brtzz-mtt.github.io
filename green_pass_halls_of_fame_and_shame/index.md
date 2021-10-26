@@ -1,2 +1,2 @@
-Green Pass Hall of Fame and Shame (GPHFS)
-=========================================
+Green Pass Hall of Fame and Shame (GPHoF&S)
+===========================================

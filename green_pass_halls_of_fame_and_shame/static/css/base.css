@@ -11,7 +11,42 @@ body {
     padding: 0;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, h4, p {
     margin-block-end: 1em;
     margin-block-start: 0;
+}
+
+#content {
+    text-align: center;
+}
+
+div.content {
+    padding: 1em;
+}
+
+div.content div.box {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .25);
+    overflow: hidden;
+}
+
+div.content div.box .header {
+    background-color: black;
+    color: white;
+    padding: 1em;
+}
+
+div.content div.box h4,
+div.content div.box p {
+    padding: 0 1em;
+    text-align: left;
+}
+
+div.content div.box.good .header {
+    background-color: forestgreen;
+}
+
+div.content div.box.bads .header {
+    background-color: crimson;
 }

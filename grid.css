@@ -5,3 +5,11 @@ div.grid {
     width: 100%;
 }
 
+div.grid.width_50 {
+    width: 50%;
+}
+
+div.grid.height_full {
+    height: 100vh;
+    overflow-y: hidden;
+}

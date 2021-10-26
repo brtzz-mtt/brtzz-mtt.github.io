@@ -1,4 +1,4 @@
-from package.configuration import BASE_PATH, BASE_TITLE, DEBUG_MODE
+from package.configuration import BASE_PATH, BASE_TITLE, DEBUG_MODE, JSON_DATA
 
 from flask import Flask, render_template
 from shutil import copyfile
@@ -19,7 +19,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return flask_template_render()
+    return flask_template_render(args = {'data': JSON_DATA})
 
 if __name__ == '__main__':
     app.run(debug = DEBUG_MODE)
