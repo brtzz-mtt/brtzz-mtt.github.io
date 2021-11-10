@@ -3,12 +3,7 @@ import logo from './logo.png'
 
 function App() {
 	return (
-		<div className="App">
-			<header className="App-header">
-				TEST!
-				<img src={logo} className="App-logo" alt="logo" />
-			</header>
-		</div>
+		<img src={logo} className="logo" alt="logo" />
 	)
 }
 

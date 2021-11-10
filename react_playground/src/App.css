@@ -5,3 +5,15 @@ body {
     padding: 0;
     width: 100%;
 }
+
+body {
+    position: relative;
+}
+
+body #root {
+    left: 50%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
